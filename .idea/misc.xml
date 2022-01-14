@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_arrow_back_white.xml" value="0.39794871794871794" />
+        <entry key="app/src/main/res/drawable/ic_eye.xml" value="0.38358974358974357" />
+        <entry key="app/src/main/res/drawable/ic_eye_unseen.xml" value="0.2708333333333333" />
+        <entry key="app/src/main/res/drawable/ic_loading.xml" value="0.38358974358974357" />
+        <entry key="app/src/main/res/drawable/ic_share.xml" value="0.38358974358974357" />
+        <entry key="app/src/main/res/drawable/ic_share_unseen.xml" value="0.2708333333333333" />
+        <entry key="app/src/main/res/drawable/ic_star_unseen.xml" value="0.2708333333333333" />
+        <entry key="app/src/main/res/drawable/ic_start.xml" value="0.38358974358974357" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22327898550724637" />
+        <entry key="app/src/main/res/layout/activity_new_feed.xml" value="0.22327898550724637" />
+        <entry key="app/src/main/res/layout/adapter_new_feed.xml" value="0.376839236976433" />
+        <entry key="app/src/main/res/layout/dialog_view_postcard.xml" value="0.22327898550724637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
